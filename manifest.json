@@ -1,6 +1,6 @@
 {
-  "name": "EduFlow Pro Productivity",
-  "short_name": "EduFlow",
+  "name": "vura-tim",
+  "short_name": "vura-tim",
   "description": "Smart Student Organizer & Productivity Tool",
   "start_url": "./index.html",
   "display": "standalone",
